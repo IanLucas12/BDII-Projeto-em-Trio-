@@ -1,11 +1,12 @@
 
-                                                                #Loja de Roupas
-
-##Descrição do Projeto :
+                                                                Loja de Roupas
+Descrição do Projeto :
 
 O presente projeto tem como objetivo o desenvolvimento de um sistema de banco de dados para gerenciar eficientemente os processos operacionais de uma loja de roupas. Esse sistema foi modelado para atender às principais necessidades comerciais da loja, tais como: controle de estoque, gerenciamento de clientes, registro de vendas, relacionamento com fornecedores, cadastro de funcionários e promoções de produtos.
 A loja comercializa diversos tipos de produtos, como roupas, calçados e acessórios, voltados para os públicos masculino, feminino e infantil. Para garantir um atendimento ágil e eficiente, o banco de dados foi projetado com foco em desempenho e organização lógica dos dados.
+
 A estrutura do banco conta com tabelas que representam as principais entidades do negócio: Produtos, Categorias, Estoque, Clientes, Fornecedores, Vendas, Funcionários e Promoções. Cada tabela foi cuidadosamente modelada para armazenar os dados necessários de maneira eficiente, respeitando os princípios da normalização.
+
 Entre os principais recursos oferecidos pelo banco de dados, destacam-se:
 •	Registro detalhado dos produtos com atributos como marca, tamanho, cor, preço e categoria.
 •	Controle de estoque com rastreio de quantidade, entrada e saída de mercadorias.
@@ -13,4 +14,5 @@ Entre os principais recursos oferecidos pelo banco de dados, destacam-se:
 •	Registro das vendas com informações sobre datas, itens vendidos, formas de pagamento e status de entrega.
 •	Integração com fornecedores para controle de reposição de mercadorias.
 •	Cadastro de promoções e descontos aplicados a produtos específicos.
+
 Esse sistema de banco de dados permitirá à loja tomar decisões baseadas em dados reais, automatizar processos repetitivos, evitar perdas de estoque e melhorar a experiência dos clientes. Ele também serve como base para relatórios gerenciais e análises futuras, auxiliando o crescimento sustentável do negócio.
